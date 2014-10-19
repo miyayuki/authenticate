@@ -38,3 +38,4 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 gem 'clearance'
+gem 'activerecord-session_store'
